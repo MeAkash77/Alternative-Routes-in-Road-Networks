@@ -1,8 +1,8 @@
-# GraphHopper Routing Engine
+# Alternative-Routes-in-Road-Networks
 
 ![Build Status](https://github.com/graphhopper/graphhopper/actions/workflows/build.yml/badge.svg?branch=master)
 
-GraphHopper is a fast and memory-efficient routing engine released under Apache License 2.0.
+Alternative-Routes-in-Road-Networks is a fast and memory-efficient routing engine released under Apache License 2.0.
 It can be used as a Java library or standalone web server to calculate the distance, time,
 turn-by-turn instructions and many road attributes for a route between two or more points.
 Beyond this "A-to-B" routing it supports ["snap to road"](README.md#Map-Matching),
